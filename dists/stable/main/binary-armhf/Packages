@@ -1,0 +1,18 @@
+Package: clash-verge
+Version: 2.0.2
+Architecture: armhf
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 104335
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: clash-verge
+Replaces: clash-verge
+Provides: clash-verge
+Filename: pool/clash-verge-rev/clash-verge-rev_v2.0.2_armhf.deb
+Size: 42722528
+MD5sum: 94cfbc8f63c33956e428c21a3864b355
+SHA1: fda3bd7c57797800c5290fded892d938acfd1b5b
+SHA256: 2926c56a553cf7bf83889528ddcc618a340287dc62483e5bf8ed803565e75f65
+Priority: optional
+Description: Clash Verge Rev
+ Clash Verge Rev
+
