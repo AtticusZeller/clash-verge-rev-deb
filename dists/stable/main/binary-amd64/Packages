@@ -1,0 +1,51 @@
+Package: clash-verge
+Version: 2.0.2
+Architecture: amd64
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 111791
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: clash-verge
+Replaces: clash-verge
+Provides: clash-verge
+Filename: pool/clash-verge-rev/clash-verge-rev_v2.0.2_amd64.deb
+Size: 44588684
+MD5sum: d131f1744236433a56d28ee296aa48fd
+SHA1: b74f9b36c6547b34e0962bca9129026e91ee805b
+SHA256: f0e176c8f92b35f2c993604e16f31f94941bc31a75594a6034833a88a1b38857
+Priority: optional
+Description: Clash Verge Rev
+ Clash Verge Rev
+
+Package: mihomo
+Version: 1.18.11-v1.19.0
+Architecture: amd64
+Maintainer: MetaCubeX <none@example.com>
+Filename: pool/mihomo/mihomo_v1.19.0_amd64.deb
+Size: 13573378
+MD5sum: 30e5a4665c07436d1a9617c61b178bc3
+SHA1: 0953c28fde713448dfce196c26b7eaef69c596a8
+SHA256: 9a2b9b33a6b548731af98450489c22998ff99ed32127a5e70aacd39b94220bd5
+Priority: extra
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+
+Package: obsidian
+Version: 1.7.7
+Architecture: amd64
+Maintainer: Dynalist Inc.
+Installed-Size: 294395
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/obsidian/obsidian_v1.7.7_amd64.deb
+Size: 81043738
+MD5sum: 3f5420bddb669d53362d262a96b5c98d
+SHA1: 6d11315b26d2b684ffe3a1097e340d54b31c89c3
+SHA256: e41269fa5f120612cb8ba3cbb8a22b1d5c5d9969c4e9b2f9f802fd0141de6a89
+Section: default
+Priority: optional
+Homepage: https://obsidian.md
+Description:
+  Obsidian
+License: UNLICENSED
+Vendor: Dynalist Inc.
+

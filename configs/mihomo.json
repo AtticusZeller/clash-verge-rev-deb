@@ -1,0 +1,19 @@
+{
+    "name": "mihomo",
+    "source": {
+        "type": "github",
+        "repo": "MetaCubeX/mihomo",
+        "asset_patterns": {
+            "amd64": "^mihomo-linux-amd64-v[0-9.]+\\.deb$"
+        }
+    },
+    "package": {
+        "name": "mihomo",
+        "maintainer": "MetaCubeX",
+        "section": "net",
+        "priority": "optional",
+        "architectures": [
+            "amd64"
+        ]
+    }
+}

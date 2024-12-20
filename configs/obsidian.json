@@ -1,0 +1,19 @@
+{
+    "name": "obsidian",
+    "source": {
+        "type": "github",
+        "repo": "obsidianmd/obsidian-releases",
+        "asset_patterns": {
+            "amd64": ".*\\.deb$"
+        }
+    },
+    "package": {
+        "name": "obsidian",
+        "maintainer": "Dynalist Inc.",
+        "section": "editors",
+        "priority": "optional",
+        "architectures": [
+            "amd64"
+        ]
+    }
+}
